@@ -1,16 +1,6 @@
 # flutter_progress_example
 
-A new Flutter application.
+A new Flutter application. Which gives a progress bar with legends
 
-## Getting Started
+<img width="372" alt="Screenshot 2021-09-14 at 8 42 25 PM" src="https://user-images.githubusercontent.com/38540693/133284393-70301efa-0d92-49d2-935e-0ee4fcbc93a9.png">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
